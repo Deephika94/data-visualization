@@ -1,1 +1,1 @@
-# data-visualization
+Data visualization projects implemented using Python programming language
